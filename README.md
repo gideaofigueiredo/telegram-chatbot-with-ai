@@ -8,6 +8,8 @@ A simple Telegram chatbot built with Python, `python-telegram-bot`, and Google G
 - Uses Gemini AI to generate responses for incoming messages
 - Loads sensitive keys from a `.env` file
 
+<img width="370" height="488" alt="image" src="https://github.com/user-attachments/assets/f0c35182-df77-4d35-9b0a-de77d4ab6a28" />
+
 ## Requirements
 
 - Python 3.11+
